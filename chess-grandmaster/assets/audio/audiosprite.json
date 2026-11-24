@@ -1,0 +1,73 @@
+{
+  "resources": [
+    "../assets/audio/audiosprite.mp3",
+    "../assets/audio/audiosprite.ogg"
+  ],
+  "spritemap": {
+    "captured_king": {
+      "start": 0,
+      "end": 0.3657142857142857,
+      "loop": false
+    },
+    "checked_puzzle": {
+      "start": 2,
+      "end": 3.79453514739229,
+      "loop": false
+    },
+    "click": {
+      "start": 5,
+      "end": 5.99265306122449,
+      "loop": false
+    },
+    "gameover": {
+      "start": 7,
+      "end": 10.195170068027211,
+      "loop": false
+    },
+    "loop": {
+      "start": 12,
+      "end": 106.48489795918367,
+      "loop": true
+    },
+    "pawn_promotion": {
+      "start": 108,
+      "end": 111.19854875283447,
+      "loop": false
+    },
+    "piece_captured": {
+      "start": 113,
+      "end": 113.26229024943311,
+      "loop": false
+    },
+    "piece_killed_01": {
+      "start": 115,
+      "end": 115.5259410430839,
+      "loop": false
+    },
+    "piece_killed_02": {
+      "start": 117,
+      "end": 117.5259410430839,
+      "loop": false
+    },
+    "piece_moved": {
+      "start": 119,
+      "end": 119.06820861678004,
+      "loop": false
+    },
+    "piece_selected": {
+      "start": 121,
+      "end": 121.04126984126984,
+      "loop": false
+    },
+    "start_game": {
+      "start": 123,
+      "end": 125.50836734693877,
+      "loop": false
+    },
+    "win": {
+      "start": 127,
+      "end": 130.39977324263037,
+      "loop": false
+    }
+  }
+}

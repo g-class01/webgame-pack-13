@@ -1,0 +1,45 @@
+PLAY_AI~Jogador Ãšnico
+PLAY_LOCAL~2 Jogadores
+OPPONENT~Oponente
+PLAYER~Jogador
+POPUP_CLOSE~âœ•
+SETTINGS~ConfiguraÃ§Ãµes
+MUSIC~MÃºsica
+SOUND~Som
+SHADOWS~Sombras
+SELECT_SKILL~Selecione a Habilidade
+WHAT_SKILL_LEVEL~Qual Ã© o seu nÃ­vel de habilidade?
+BEGINNER~Iniciante
+INTERMEDIATE~IntermediÃ¡rio
+ADVANCED~AvanÃ§ado
+CUSTOMIZE~Personalizar
+LIGHT_FIRST~PeÃ§as claras jogam primeiro
+DARK_FIRST~PeÃ§as escuras jogam primeiro
+CUSTOMIZE_MSG~Personalizar peÃ§as e tabuleiro
+COLOR~Cor
+CUSTOMIZE_PIECES_BOARD~Personalizar peÃ§as e tabuleiro
+START~Iniciar
+APPLY~Aplicar
+PROMOTION~PromoÃ§Ã£o de PeÃ£o
+REPLACE_TILE~Substituir PeÃ§a
+CHECK~Xeque
+CHECKMATE~Xeque-mate
+POSSIBLE_DRAW~PossÃ­vel empate
+POSSIBLE_DRAW_MSG_1~Se nenhum jogador mudar a sua jogada em
+POSSIBLE_DRAW_MSG_2~2 movimentos, o jogo terminarÃ¡ em empate
+UNDO_LAST~Undo last move
+STALEMATE~Empate por afogamento
+THREEFOLD_REPETITION~RepetiÃ§Ã£o trÃ­plice
+INSUFFICIENT_MATERIAL~Material insuficiente
+CONGRATULATIONS~ParabÃ©ns
+DRAW~Empate
+UPS~Ops!
+WON~VitÃ³ria!
+TIE~Ã‰ um empate
+LOST~Perdeu!
+REMATCH~Desforra
+HOME~PÃ¡gina inicial
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

@@ -1,0 +1,45 @@
+PLAY_AI~Giocatore singolo
+PLAY_LOCAL~2 giocatori
+OPPONENT~avversario
+PLAYER~giocatore
+POPUP_CLOSE~âœ•
+SETTINGS~Impostazioni
+MUSIC~Musica
+SOUND~Suono
+SHADOWS~Ombre
+SELECT_SKILL~Seleziona AbilitÃ 
+WHAT_SKILL_LEVEL~Qual Ã¨ il tuo livello di abilitÃ ?
+BEGINNER~Principiante
+INTERMEDIATE~Intermedio
+ADVANCED~Avanzato
+CUSTOMIZE~Personalizza
+LIGHT_FIRST~Le tessere chiare giocano per prime
+DARK_FIRST~Le tessere scure giocano per prime
+CUSTOMIZE_MSG~Personalizza pezzi e tavola
+COLOR~Colore
+CUSTOMIZE_PIECES_BOARD~Personalizza pezzi e tavola
+START~Inizia
+APPLY~Applica
+PROMOTION~Promozione pedone
+REPLACE_TILE~Sostituisci tessera
+CHECK~Scacco
+CHECKMATE~Scacco matto
+POSSIBLE_DRAW~Pareggio possibile
+POSSIBLE_DRAW_MSG_1~Se nessun giocatore cambia la propria mossa in
+POSSIBLE_DRAW_MSG_2~2 mosse, la partita finirÃ  in pareggio
+UNDO_LAST~Annulla ultima mossa
+STALEMATE~Stallo
+THREEFOLD_REPETITION~Tripla ripetizione
+INSUFFICIENT_MATERIAL~Materiale insufficiente
+CONGRATULATIONS~Congratulazioni
+DRAW~Pareggio
+UPS~Ups!
+WON~Hai vinto!
+TIE~Ãˆ un pareggio
+LOST~Hai perso!
+REMATCH~Rivincita
+HOME~Home
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><head>
+<script>
+(function() {
+    function dummyBreak(fn) {
+        if (typeof fn === 'function') fn();
+        return Promise.resolve(true);
+    }
+    window.commercialBreak = window.commercialBreak || dummyBreak;
+    window.rewardedBreak = window.rewardedBreak || dummyBreak;
+    try {
+        if (window.parent && window.parent !== window) {
+            window.parent.commercialBreak = window.parent.commercialBreak || dummyBreak;
+            window.parent.rewardedBreak = window.parent.rewardedBreak || dummyBreak;
+        }
+        if (window.top && window.top !== window) {
+            window.top.commercialBreak = window.top.commercialBreak || dummyBreak;
+            window.top.rewardedBreak = window.top.rewardedBreak || dummyBreak;
+        }
+    } catch(e) {}
+})();
+</script>
+  <script>window.open = function () {}; window.NOSW = true;</script>
+<script src="poki-sdk.js"></script><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"/><meta http-equiv="X-UA-Compatible" content="ie=edge"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="theme-color" content="#000000"/><link rel="manifest" href="./manifest.json"/><meta name="application-name" content="Ch♜ss"/><meta name="apple-mobile-web-app-title" content="Ch♜ss"/><meta name="msapplication-starturl" content="./"/><link rel="shortcut icon" href="./favicon.ico" type="image/x-icon"/><title>Ch♜ss</title><style>@font-face {
+				font-family: "Kollektif";
+				src: url("fonts/Kollektif.ttf") format("truetype");
+			}
+			@font-face {
+				font-family: "Kollektif-Bold";
+				src: url("fonts/Kollektif-Bold.ttf") format("truetype");
+			}
+			.font-use {
+				position: absolute;
+				opacity: 0;
+			}
+			#font-kollektif {
+				font-family: "Kollektif";
+			}
+			#font-kollektif-bold {
+				font-family: "Kollektif-Bold";
+			}
+			html,
+			body {
+				height: 100%;
+				margin: 0;
+				background-color: #fff;
+				overflow: hidden;
+				text-align: center;
+			}
+			#ig-game {
+				width: 100%;
+				height: 100%;
+				margin: 0 auto;
+				background-color: #fff;
+			}
+			#ig-game canvas {
+				width: 100% !important;
+				height: 100% !important;
+				margin-top: 0 !important;
+				margin: 0 auto !important;
+			}</style><noscript>Please enable javascript to continue using this application.</noscript><script defer="defer" src="vendors.6833c1638cf82f416028.bundle.js"></script><script defer="defer" src="main.b584255764b1dae8a9c6.bundle.js"></script></head><body><div id="font-kollektif" class="font-use">.</div><div id="font-kollektif-bold" class="font-use">.</div><div id="ig-game"></div></body></html>

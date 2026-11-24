@@ -1,0 +1,176 @@
+{
+  "base": {
+    "rotation": 0,
+    "scaleY": 1,
+    "scaleX": 1,
+    "type": "Container",
+    "name": "base",
+    "y": 99.45,
+    "anchorY": 0,
+    "x": 204.5,
+    "anchorX": 0,
+    "width": 164,
+    "children": [
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Sprite",
+        "asset": "card",
+        "name": "instance38",
+        "y": 0,
+        "anchorY": 0,
+        "x": 0,
+        "anchorX": 0,
+        "width": 164,
+        "height": 234
+      },
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Container",
+        "name": "suit0",
+        "y": 6,
+        "anchorY": 0,
+        "x": 135.55,
+        "anchorX": 0,
+        "width": 20,
+        "children": [
+          {
+            "rotation": 0,
+            "scaleY": 1,
+            "scaleX": 1,
+            "type": "Sprite",
+            "asset": "spades_small",
+            "name": "instance39",
+            "y": 0,
+            "anchorY": 0,
+            "x": 0,
+            "anchorX": 0,
+            "width": 20,
+            "height": 20
+          }
+        ],
+        "height": 20
+      },
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Container",
+        "name": "suit2",
+        "y": 203,
+        "anchorY": 0,
+        "x": 6.5,
+        "anchorX": 0,
+        "width": 20,
+        "children": [
+          {
+            "rotation": 0,
+            "scaleY": 1,
+            "scaleX": 1,
+            "type": "Sprite",
+            "asset": "spades_small",
+            "name": "instance40",
+            "y": 0,
+            "anchorY": 0,
+            "x": 0,
+            "anchorX": 0,
+            "width": 20,
+            "height": 20
+          }
+        ],
+        "height": 20
+      },
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Container",
+        "name": "suit1",
+        "y": 66.5,
+        "anchorY": 0,
+        "x": 36.5,
+        "anchorX": 0,
+        "width": 95,
+        "children": [
+          {
+            "rotation": 0,
+            "scaleY": 1,
+            "scaleX": 1,
+            "type": "Sprite",
+            "asset": "spades_big",
+            "name": "instance41",
+            "y": 0,
+            "anchorY": 0,
+            "x": 0,
+            "anchorX": 0,
+            "width": 95,
+            "height": 96
+          }
+        ],
+        "height": 96
+      },
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Container",
+        "name": "value0",
+        "y": 0,
+        "anchorY": 0,
+        "x": 0,
+        "anchorX": 0,
+        "width": 43.2,
+        "children": [
+          {
+            "rotation": 0,
+            "scaleY": 0.6000000000000001,
+            "scaleX": 0.6000000000000001,
+            "type": "Sprite",
+            "asset": "images0026",
+            "name": "instance42",
+            "y": 0,
+            "anchorY": 0,
+            "x": 0,
+            "anchorX": 0,
+            "width": 43.2,
+            "height": 43.2
+          }
+        ],
+        "height": 43.2
+      },
+      {
+        "rotation": 0,
+        "scaleY": 1,
+        "scaleX": 1,
+        "type": "Container",
+        "name": "value1",
+        "y": 187.5,
+        "anchorY": 0,
+        "x": 116.5,
+        "anchorX": 0,
+        "width": 43.2,
+        "children": [
+          {
+            "rotation": 0,
+            "scaleY": 0.6000000000000001,
+            "scaleX": 0.6000000000000001,
+            "type": "Sprite",
+            "asset": "images0026",
+            "name": "instance43",
+            "y": 0,
+            "anchorY": 0,
+            "x": 0,
+            "anchorX": 0,
+            "width": 43.2,
+            "height": 43.2
+          }
+        ],
+        "height": 43.2
+      }
+    ],
+    "height": 234
+  }
+}

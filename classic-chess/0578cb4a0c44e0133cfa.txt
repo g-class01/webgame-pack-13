@@ -1,0 +1,45 @@
+PLAY_AI~Single player
+PLAY_LOCAL~2 players
+OPPONENT~opponent
+PLAYER~you
+POPUP_CLOSE~âœ•
+SETTINGS~Settings
+MUSIC~Music
+SOUND~Sound
+SHADOWS~Shadows
+SELECT_SKILL~Select Skill
+WHAT_SKILL_LEVEL~What is your skill level?
+BEGINNER~Beginner
+INTERMEDIATE~Intermediate
+ADVANCED~Advanced
+CUSTOMIZE~Customize
+LIGHT_FIRST~Light tiles play first
+DARK_FIRST~Dark tiles play first
+CUSTOMIZE_MSG~Customize pieces and board
+COLOR~Color
+CUSTOMIZE_PIECES_BOARD~Customize pieces and board
+START~Start
+APPLY~Apply
+PROMOTION~Pawn Promotion
+REPLACE_TILE~Replace Tile
+CHECK~Check
+CHECKMATE~Checkmate
+POSSIBLE_DRAW~Possible Draw
+POSSIBLE_DRAW_MSG_1~If no player changes their play in
+POSSIBLE_DRAW_MSG_2~2 moves the match will end in draw
+UNDO_LAST~Undo last move
+STALEMATE~Stalemate
+THREEFOLD_REPETITION~Threefold Repetition
+INSUFFICIENT_MATERIAL~Insufficient Material
+CONGRATULATIONS~Congratulations
+DRAW~Draw
+UPS~Ups!
+WON~You've won!
+TIE~It's a tie
+LOST~You've lost!
+REMATCH~Rematch
+HOME~Home
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

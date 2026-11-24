@@ -1,0 +1,45 @@
+PLAY_AI~NgÆ°á»i chÆ¡i Ä‘Æ¡n
+PLAY_LOCAL~2 ngÆ°á»i chÆ¡i
+OPPONENT~Ä‘á»‘i thá»§
+PLAYER~ngÆ°á»i chÆ¡i
+POPUP_CLOSE~âœ•
+SETTINGS~CÃ i Ä‘áº·t
+MUSIC~Ã‚m nháº¡c
+SOUND~Ã‚m thanh
+SHADOWS~BÃ³ng Ä‘Ã¨n
+SELECT_SKILL~Chá»n Ká»¹ nÄƒng
+WHAT_SKILL_LEVEL~TrÃ¬nh Ä‘á»™ ká»¹ nÄƒng cá»§a báº¡n lÃ  gÃ¬?
+BEGINNER~NgÆ°á»i má»›i báº¯t Ä‘áº§u
+INTERMEDIATE~Trung cáº¥p
+ADVANCED~NÃ¢ng cao
+CUSTOMIZE~TÃ¹y chá»‰nh
+LIGHT_FIRST~CÃ¡c quÃ¢n sÃ¡ng Ä‘i trÆ°á»›c
+DARK_FIRST~CÃ¡c quÃ¢n tá»‘i Ä‘i trÆ°á»›c
+CUSTOMIZE_MSG~TÃ¹y chá»‰nh quÃ¢n cá» vÃ  bÃ n cá»
+COLOR~MÃ u sáº¯c
+CUSTOMIZE_PIECES_BOARD~TÃ¹y chá»‰nh quÃ¢n cá» vÃ  bÃ n cá»
+START~Báº¯t Ä‘áº§u
+APPLY~Ãp dá»¥ng
+PROMOTION~ThÄƒng cáº¥p quÃ¢n bÃ£i
+REPLACE_TILE~Thay tháº¿ quÃ¢n
+CHECK~Kiá»ƒm tra
+CHECKMATE~Chiáº¿u bÃ­
+POSSIBLE_DRAW~HÃ²a cÃ³ thá»ƒ xáº£y ra
+POSSIBLE_DRAW_MSG_1~Náº¿u khÃ´ng cÃ³ ngÆ°á»i chÆ¡i nÃ o thay Ä‘á»•i cÃ¡ch chÆ¡i cá»§a mÃ¬nh trong
+POSSIBLE_DRAW_MSG_2~2 nÆ°á»›c Ä‘i, tráº­n Ä‘áº¥u sáº½ káº¿t thÃºc hÃ²a
+UNDO_LAST~HoÃ n tÃ¡c nÆ°á»›c Ä‘i cuá»‘i cÃ¹ng
+STALEMATE~Báº¿ táº¯c
+THREEFOLD_REPETITION~Láº·p láº¡i ba láº§n
+INSUFFICIENT_MATERIAL~Váº­t liá»‡u khÃ´ng Ä‘á»§
+CONGRATULATIONS~ChÃºc má»«ng
+DRAW~HÃ²a
+UPS~Ã”i!
+WON~Báº¡n Ä‘Ã£ tháº¯ng!
+TIE~HÃ²a
+LOST~Báº¡n Ä‘Ã£ thua!
+REMATCH~Tráº­n Ä‘áº¥u láº¡i
+HOME~Trang chá»§
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

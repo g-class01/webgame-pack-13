@@ -1,0 +1,45 @@
+PLAY_AI~Pemain tunggal
+PLAY_LOCAL~2 pemain
+OPPONENT~lawan
+PLAYER~pemain
+POPUP_CLOSE~âœ•
+SETTINGS~Pengaturan
+MUSIC~Musik
+SOUND~Suara
+SHADOWS~Bayangan
+SELECT_SKILL~Pilih Keterampilan
+WHAT_SKILL_LEVEL~Apa tingkat keterampilan Anda?
+BEGINNER~Pemula
+INTERMEDIATE~Menengah
+ADVANCED~Lanjutan
+CUSTOMIZE~Kustomisasi
+LIGHT_FIRST~Pion terang bermain terlebih dahulu
+DARK_FIRST~Pion gelap bermain terlebih dahulu
+CUSTOMIZE_MSG~Sesuaikan potongan dan papan
+COLOR~Warna
+CUSTOMIZE_PIECES_BOARD~Sesuaikan potongan dan papan
+START~Mulai
+APPLY~Terapkan
+PROMOTION~Promosi pion
+REPLACE_TILE~Ganti Tile
+CHECK~Cek
+CHECKMATE~Skakmat
+POSSIBLE_DRAW~Seri Kemungkinan
+POSSIBLE_DRAW_MSG_1~Jika tidak ada pemain yang mengubah permainannya dalam
+POSSIBLE_DRAW_MSG_2~2 langkah, pertandingan akan berakhir seri
+UNDO_LAST~Batal gerakan terakhir
+STALEMATE~Pat
+THREEFOLD_REPETITION~Pengulangan Tiga Kali
+INSUFFICIENT_MATERIAL~Material Tidak Cukup
+CONGRATULATIONS~Selamat
+DRAW~Seri
+UPS~Ups!
+WON~Anda menang!
+TIE~Ini seri
+LOST~Anda kalah!
+REMATCH~Ulangi Pertandingan
+HOME~Beranda
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

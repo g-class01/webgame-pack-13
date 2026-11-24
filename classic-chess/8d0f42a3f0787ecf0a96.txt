@@ -1,0 +1,45 @@
+PLAY_AI~ì‹±ê¸€ í”Œë ˆì´ì–´
+PLAY_LOCAL~2 í”Œë ˆì´ì–´
+OPPONENT~ìƒëŒ€
+PLAYER~í”Œë ˆì´ì–´
+POPUP_CLOSE~âœ•
+SETTINGS~ì„¤ì •
+MUSIC~ìŒì•…
+SOUND~íš¨ê³¼ìŒ
+SHADOWS~ê·¸ë¦¼ìž
+SELECT_SKILL~ê¸°ìˆ  ì„ íƒ
+WHAT_SKILL_LEVEL~ê·€í•˜ì˜ ê¸°ìˆ  ìˆ˜ì¤€ì€ ë¬´ì—‡ìž…ë‹ˆê¹Œ?
+BEGINNER~ì´ˆë³´ìž
+INTERMEDIATE~ì¤‘ê¸‰
+ADVANCED~ê³ ê¸‰
+CUSTOMIZE~ì‚¬ìš©ìž ì„¤ì •
+LIGHT_FIRST~ë°ì€ íƒ€ì¼ì´ ë¨¼ì € ì›€ì§ìž…ë‹ˆë‹¤
+DARK_FIRST~ì–´ë‘ìš´ íƒ€ì¼ì´ ë¨¼ì € ì›€ì§ìž…ë‹ˆë‹¤
+CUSTOMIZE_MSG~í”¼ìŠ¤ ë° ë³´ë“œ ì‚¬ìš©ìž ì„¤ì •
+COLOR~ìƒ‰ìƒ
+CUSTOMIZE_PIECES_BOARD~í”¼ìŠ¤ ë° ë³´ë“œ ì‚¬ìš©ìž ì„¤ì •
+START~ì‹œìž‘
+APPLY~ì ìš©
+PROMOTION~í° ìŠ¹ì§„
+REPLACE_TILE~íƒ€ì¼ êµì²´
+CHECK~ì²´í¬
+CHECKMATE~ì²´í¬ë©”ì´íŠ¸
+POSSIBLE_DRAW~ë¬´ìŠ¹ë¶€ ê°€ëŠ¥ì„±
+POSSIBLE_DRAW_MSG_1~í”Œë ˆì´ì–´ê°€ 2ë²ˆì˜ ì›€ì§ìž„ ì•ˆì— ê²Œìž„ì„ ë³€ê²½í•˜ì§€ ì•Šìœ¼ë©´
+POSSIBLE_DRAW_MSG_2~ê²½ê¸°ëŠ” ë¬´ìŠ¹ë¶€ë¡œ ì¢…ë£Œë©ë‹ˆë‹¤
+UNDO_LAST~ë§ˆì§€ë§‰ ì›€ì§ìž„ ì·¨ì†Œ
+STALEMATE~ìŠ¤í…Œì¼ë©”ì´íŠ¸
+THREEFOLD_REPETITION~3íšŒ ë°˜ë³µ
+INSUFFICIENT_MATERIAL~ë¶ˆì¶©ë¶„í•œ ìžìž¬
+CONGRATULATIONS~ì¶•í•˜í•©ë‹ˆë‹¤
+DRAW~ë¬´ìŠ¹ë¶€
+UPS~ì´ëŸ°!
+WON~ë‹¹ì‹ ì´ ì´ê²¼ìŠµë‹ˆë‹¤!
+TIE~ë¹„ê¹€
+LOST~ë‹¹ì‹ ì´ ì¡ŒìŠµë‹ˆë‹¤!
+REMATCH~ë‹¤ì‹œ ì‹œìž‘
+HOME~í™ˆ
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

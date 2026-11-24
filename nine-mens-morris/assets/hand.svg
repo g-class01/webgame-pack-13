@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="670" height="560" viewBox="-5.6 -3 6.7 5.6">
+  <!-- Pointing hand in the in-game frame: finger tip at (0,0), pointing toward +X.
+       1 viewBox unit = 1 board size unit. Matches the former procedural drawing. -->
+  <line x1="0" y1="0" x2="-4.39" y2="0" stroke="#ffd9b3" stroke-width="1.12" stroke-linecap="round"/>
+  <line x1="0" y1="0" x2="-4.39" y2="0" stroke="#e8b98f" stroke-width="0.224" stroke-linecap="round"/>
+  <line x1="-4.03" y1="-0.39" x2="-3.16" y2="-1.89" stroke="#ffd9b3" stroke-width="1.09" stroke-linecap="round"/>
+  <line x1="-4.03" y1="-0.39" x2="-3.16" y2="-1.89" stroke="#e8b98f" stroke-width="0.218" stroke-linecap="round"/>
+  <circle cx="-3.62" cy="0.61" r="1.48" fill="#ffd9b3" stroke="#e8b98f" stroke-width="0.14"/>
+  <circle cx="-0.45" cy="0" r="0.22" fill="rgba(255,255,255,0.75)"/>
+</svg>

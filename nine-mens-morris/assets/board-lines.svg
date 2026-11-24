@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <filter id="lineShadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-color="rgba(0,0,0,0.35)"/>
+    </filter>
+  </defs>
+  <g stroke="#c89040" stroke-width="4" stroke-linecap="round" fill="none" filter="url(#lineShadow)">
+    <line x1="50.0" y1="40.0" x2="490.0" y2="40.0"/>
+    <line x1="40.0" y1="50.0" x2="40.0" y2="490.0"/>
+    <line x1="510.0" y1="40.0" x2="950.0" y2="40.0"/>
+    <line x1="500.0" y1="50.0" x2="500.0" y2="210.0"/>
+    <line x1="960.0" y1="50.0" x2="960.0" y2="490.0"/>
+    <line x1="230.0" y1="220.0" x2="490.0" y2="220.0"/>
+    <line x1="220.0" y1="230.0" x2="220.0" y2="490.0"/>
+    <line x1="510.0" y1="220.0" x2="770.0" y2="220.0"/>
+    <line x1="500.0" y1="230.0" x2="500.0" y2="370.0"/>
+    <line x1="780.0" y1="230.0" x2="780.0" y2="490.0"/>
+    <line x1="390.0" y1="380.0" x2="490.0" y2="380.0"/>
+    <line x1="380.0" y1="390.0" x2="380.0" y2="490.0"/>
+    <line x1="510.0" y1="380.0" x2="610.0" y2="380.0"/>
+    <line x1="620.0" y1="390.0" x2="620.0" y2="490.0"/>
+    <line x1="40.0" y1="510.0" x2="40.0" y2="950.0"/>
+    <line x1="50.0" y1="500.0" x2="210.0" y2="500.0"/>
+    <line x1="220.0" y1="510.0" x2="220.0" y2="770.0"/>
+    <line x1="230.0" y1="500.0" x2="370.0" y2="500.0"/>
+    <line x1="380.0" y1="510.0" x2="380.0" y2="610.0"/>
+    <line x1="620.0" y1="510.0" x2="620.0" y2="610.0"/>
+    <line x1="630.0" y1="500.0" x2="770.0" y2="500.0"/>
+    <line x1="780.0" y1="510.0" x2="780.0" y2="770.0"/>
+    <line x1="790.0" y1="500.0" x2="950.0" y2="500.0"/>
+    <line x1="960.0" y1="510.0" x2="960.0" y2="950.0"/>
+    <line x1="390.0" y1="620.0" x2="490.0" y2="620.0"/>
+    <line x1="510.0" y1="620.0" x2="610.0" y2="620.0"/>
+    <line x1="500.0" y1="630.0" x2="500.0" y2="770.0"/>
+    <line x1="230.0" y1="780.0" x2="490.0" y2="780.0"/>
+    <line x1="510.0" y1="780.0" x2="770.0" y2="780.0"/>
+    <line x1="500.0" y1="790.0" x2="500.0" y2="950.0"/>
+    <line x1="50.0" y1="960.0" x2="490.0" y2="960.0"/>
+    <line x1="510.0" y1="960.0" x2="950.0" y2="960.0"/>
+  </g>
+  <g stroke="#c89040" stroke-width="4" fill="none">
+    <circle cx="40.0" cy="40.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="40.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="960.0" cy="40.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="220.0" cy="220.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="220.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="780.0" cy="220.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="380.0" cy="380.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="380.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="620.0" cy="380.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="40.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="220.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="380.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="620.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="780.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="960.0" cy="500.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="380.0" cy="620.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="620.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="620.0" cy="620.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="220.0" cy="780.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="780.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="780.0" cy="780.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="40.0" cy="960.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="500.0" cy="960.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+    <circle cx="960.0" cy="960.0" r="10" fill="none" stroke="#c89040" stroke-width="4"/>
+  </g>
+</svg>

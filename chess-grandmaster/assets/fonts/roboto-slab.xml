@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created using Glyph Designer - http://71squared.com/glyphdesigner-->
+<font>
+    <info face="Roboto Slab" size="80" bold="1" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="2,2"/>
+    <common lineHeight="106" base="84" scaleW="189" scaleH="263" pages="1" packed="0"/>
+    <pages>
+        <page id="0" file="roboto-slab.png"/>
+    </pages>
+    <chars count="10">
+        <char id="48" x="96" y="2" width="44" height="64" xoffset="3" yoffset="24" xadvance="46" page="0" chnl="0" letter="0"/>
+        <char id="49" x="99" y="134" width="36" height="62" xoffset="1" yoffset="25" xadvance="35" page="0" chnl="0" letter="1"/>
+        <char id="50" x="48" y="68" width="45" height="63" xoffset="1" yoffset="24" xadvance="44" page="0" chnl="0" letter="2"/>
+        <char id="51" x="2" y="2" width="45" height="64" xoffset="1" yoffset="24" xadvance="43" page="0" chnl="0" letter="3"/>
+        <char id="52" x="2" y="134" width="47" height="62" xoffset="0" yoffset="25" xadvance="45" page="0" chnl="0" letter="4"/>
+        <char id="53" x="95" y="68" width="44" height="63" xoffset="1" yoffset="25" xadvance="43" page="0" chnl="0" letter="5"/>
+        <char id="54" x="49" y="2" width="45" height="64" xoffset="3" yoffset="24" xadvance="45" page="0" chnl="0" letter="6"/>
+        <char id="55" x="51" y="134" width="46" height="62" xoffset="1" yoffset="25" xadvance="43" page="0" chnl="0" letter="7"/>
+        <char id="56" x="142" y="2" width="44" height="64" xoffset="2" yoffset="24" xadvance="44" page="0" chnl="0" letter="8"/>
+        <char id="57" x="2" y="68" width="44" height="64" xoffset="1" yoffset="24" xadvance="45" page="0" chnl="0" letter="9"/>
+    </chars>
+    <kernings count="0"/>
+</font>

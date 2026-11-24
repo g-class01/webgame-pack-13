@@ -1,0 +1,45 @@
+PLAY_AI~Tek oyuncu
+PLAY_LOCAL~2 oyuncu
+OPPONENT~rakip
+PLAYER~oyuncu
+POPUP_CLOSE~âœ•
+SETTINGS~Ayarlar
+MUSIC~MÃ¼zik
+SOUND~Ses
+SHADOWS~GÃ¶lge
+SELECT_SKILL~Beceriyi seÃ§in
+WHAT_SKILL_LEVEL~Beceriniz ne seviyede?
+BEGINNER~BaÅŸlangÄ±Ã§
+INTERMEDIATE~Orta
+ADVANCED~GeliÅŸmiÅŸ
+CUSTOMIZE~Ã–zelleÅŸtir
+LIGHT_FIRST~AÃ§Ä±k taÅŸlar ilk oynar
+DARK_FIRST~Koyu taÅŸlar ilk oynar
+CUSTOMIZE_MSG~TaÅŸlarÄ± ve tahtayÄ± Ã¶zelleÅŸtir
+COLOR~Renk
+CUSTOMIZE_PIECES_BOARD~TaÅŸlarÄ± ve tahtayÄ± Ã¶zelleÅŸtir
+START~BaÅŸla
+APPLY~Uygula
+PROMOTION~Piyon terfisi
+REPLACE_TILE~TaÅŸÄ± deÄŸiÅŸtir
+CHECK~Åžah
+CHECKMATE~Åžahmat
+POSSIBLE_DRAW~Beraberlik olasÄ±lÄ±ÄŸÄ±
+POSSIBLE_DRAW_MSG_1~HiÃ§bir oyuncu oyununu deÄŸiÅŸtirmezse
+POSSIBLE_DRAW_MSG_2~2 hamle iÃ§inde maÃ§ berabere bitecek
+UNDO_LAST~Son hamleyi geri al
+STALEMATE~Beraberlik
+THREEFOLD_REPETITION~ÃœÃ§lÃ¼ tekrar
+INSUFFICIENT_MATERIAL~Yetersiz malzeme
+CONGRATULATIONS~Tebrikler
+DRAW~Berabere
+UPS~Hata!
+WON~KazandÄ±nÄ±z!
+TIE~Berabere
+LOST~Kaybettiniz!
+REMATCH~Tekrar maÃ§
+HOME~Ana Sayfa
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

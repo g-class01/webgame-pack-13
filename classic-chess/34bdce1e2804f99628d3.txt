@@ -1,0 +1,45 @@
+PLAY_AI~Einzelplayer
+PLAY_LOCAL~2 Spieler
+OPPONENT~Gegner
+PLAYER~Spieler
+POPUP_CLOSE~âœ•
+SETTINGS~Einstellungen
+MUSIC~Musik
+SOUND~Ton
+SHADOWS~Schatten
+SELECT_SKILL~FÃ¤higkeitsstufe auswÃ¤hlen
+WHAT_SKILL_LEVEL~Was ist dein FÃ¤higkeitslevel?
+BEGINNER~AnfÃ¤nger
+INTERMEDIATE~Fortgeschrittener AnfÃ¤nger
+ADVANCED~Fortgeschritten
+CUSTOMIZE~Anpassen
+LIGHT_FIRST~Helle Steine spielen zuerst
+DARK_FIRST~Dunkle Steine spielen zuerst
+CUSTOMIZE_MSG~Steine und Brett anpassen
+COLOR~Farbe
+CUSTOMIZE_PIECES_BOARD~Steine und Brett anpassen
+START~Start
+APPLY~Anwenden
+PROMOTION~Bauernumwandlung
+REPLACE_TILE~Stein ersetzen
+CHECK~Schach
+CHECKMATE~Schachmatt
+POSSIBLE_DRAW~MÃ¶gliches Unentschieden
+POSSIBLE_DRAW_MSG_1~Wenn kein Spieler sein Spiel Ã¤ndert in
+POSSIBLE_DRAW_MSG_2~2 ZÃ¼gen, endet das Spiel unentschieden
+UNDO_LAST~Letzten Zug rÃ¼ckgÃ¤ngig machen
+STALEMATE~Patt
+THREEFOLD_REPETITION~Dreifache Wiederholung
+INSUFFICIENT_MATERIAL~Unzureichendes Material
+CONGRATULATIONS~Herzlichen GlÃ¼ckwunsch
+DRAW~Unentschieden
+UPS~Hoppla!
+WON~Du hast gewonnen!
+TIE~Es ist ein Unentschieden
+LOST~Du hast verloren!
+REMATCH~Revanchieren
+HOME~Startseite
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

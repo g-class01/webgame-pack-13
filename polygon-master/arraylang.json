@@ -1,0 +1,542 @@
+{
+    "c2array": true,
+    "size": [
+        14,
+        12,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Rus"
+            ],
+            [
+                "УРОВЕНЬ "
+            ],
+            [
+                "Вы уверены, что хотите выйти в меню? (прогресс уровня не будет сохранен)"
+            ],
+            [
+                "\n     ЗВУКИ  \n\n     МУЗЫКА"
+            ],
+            [
+                "ПОСМОТРЕТЬ РЕКЛАМУ ЗА 5 [icon=2]?"
+            ],
+            [
+                "ДА"
+            ],
+            [
+                "НЕТ"
+            ],
+            [
+                "Отлично!"
+            ],
+            [
+                "Превосходно!"
+            ],
+            [
+                "Здорово!"
+            ],
+            [
+                "Нажми на кнопку, чтобы выключить отображение чисел. Это сделает игру более сложной и интересной."
+            ],
+            [
+                "Чтобы вернуть отображение чисел – нажми на кнопку еще раз."
+            ]
+        ],
+        [
+            [
+                "Hindi"
+            ],
+            [
+                "स्तर "
+            ],
+            [
+                "क्या आप वाकई मेनू पर लौटना चाहते हैं?\n (स्तर की प्रगति सहेजी नहीं जाएगी)"
+            ],
+            [
+                "\n     ध्वनियां\n\n     संगीत"
+            ],
+            [
+                "5 [icon=2] के लिए विज्ञापन देखें?"
+            ],
+            [
+                "हाँ"
+            ],
+            [
+                "नहीं"
+            ],
+            [
+                "शानदार!"
+            ],
+            [
+                "उत्कृष्ट!"
+            ],
+            [
+                "बढ़िया!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Arabic"
+            ],
+            [
+                "المستوى "
+            ],
+            [
+                "هل أنت متأكد أنك تريد العودة إلى القائمة؟\n (لن يتم حفظ تقدم المستوى)"
+            ],
+            [
+                "\n     الأصوات\n\n     الموسيقى"
+            ],
+            [
+                "شاهد إعلانًا مقابل 5 [icon=2]?"
+            ],
+            [
+                "نعم"
+            ],
+            [
+                "لا"
+            ],
+            [
+                "ممتاز!"
+            ],
+            [
+                "رائع جدًا!"
+            ],
+            [
+                "رائع!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Chinese"
+            ],
+            [
+                "等级 "
+            ],
+            [
+                "确定要返回菜单吗？\n（关卡进度不会保存）"
+            ],
+            [
+                "\n     声音\n\n     音乐"
+            ],
+            [
+                "观看广告以获得 5 [icon=2]？"
+            ],
+            [
+                "是"
+            ],
+            [
+                "否"
+            ],
+            [
+                "非常好!"
+            ],
+            [
+                "完美极了!"
+            ],
+            [
+                "太好了!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Korean"
+            ],
+            [
+                "레벨 "
+            ],
+            [
+                "메뉴로 돌아가시겠습니까?\n (레벨 진행이 저장되지 않습니다)"
+            ],
+            [
+                "\n     소리\n\n     음악"
+            ],
+            [
+                "5 [icon=2]로 광고 보기?"
+            ],
+            [
+                "예"
+            ],
+            [
+                "아니요"
+            ],
+            [
+                "훌륭해!"
+            ],
+            [
+                "완벽해!"
+            ],
+            [
+                "멋져!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Japanese"
+            ],
+            [
+                "レベル "
+            ],
+            [
+                "メニューに戻りますか？\n（レベルの進行は保存されません）"
+            ],
+            [
+                "\n     サウンド\n\n     音楽"
+            ],
+            [
+                "5 [icon=2]で広告を見る？"
+            ],
+            [
+                "はい"
+            ],
+            [
+                "いいえ"
+            ],
+            [
+                "素晴らしい!"
+            ],
+            [
+                "完璧です!"
+            ],
+            [
+                "すごいね!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "DE"
+            ],
+            [
+                "LEVEL "
+            ],
+            [
+                "Sind Sie sicher, dass Sie zum Menü zurückkehren möchten? (Fortschritt des Levels wird nicht gespeichert)"
+            ],
+            [
+                "\n     TÖNE\n\n     MUSIK"
+            ],
+            [
+                "EINE WERBUNG FÜR 5 [icon=2] ANSCHAUEN?"
+            ],
+            [
+                "JA"
+            ],
+            [
+                "NEIN"
+            ],
+            [
+                "Ausgezeichnet!"
+            ],
+            [
+                "Hervorragend!"
+            ],
+            [
+                "Toll!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Portuguese"
+            ],
+            [
+                "NÍVEL "
+            ],
+            [
+                "Tem certeza de que deseja voltar ao menu? (o progresso do nível não será salvo)"
+            ],
+            [
+                "\n     SONS\n\n     MÚSICA"
+            ],
+            [
+                "ASSISTIR A UM ANÚNCIO POR 5 [icon=2]?"
+            ],
+            [
+                "SIM"
+            ],
+            [
+                "NÃO"
+            ],
+            [
+                "Excelente!"
+            ],
+            [
+                "Perfeito!"
+            ],
+            [
+                "Legal!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Polish"
+            ],
+            [
+                "POZIOM "
+            ],
+            [
+                "Czy na pewno chcesz wrócić do menu? (postęp poziomu nie zostanie zapisany)"
+            ],
+            [
+                "\n     DŹWIĘKI  \n\n     MUZYKA"
+            ],
+            [
+                "OBEJRZYJ REKLAMĘ ZA 5 [icon=2]?"
+            ],
+            [
+                "TAK"
+            ],
+            [
+                "NIE"
+            ],
+            [
+                "Doskonale!"
+            ],
+            [
+                "Znakomicie!"
+            ],
+            [
+                "Super!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Turkish"
+            ],
+            [
+                "SEVİYE "
+            ],
+            [
+                "Menüye dönmek istediğinizden emin misiniz? (seviye ilerlemesi kaydedilmeyecek)"
+            ],
+            [
+                "\n     SESLER  \n\n     MÜZİK"
+            ],
+            [
+                "5 [icon=2] KARŞILIĞINDA REKLAM İZLE?"
+            ],
+            [
+                "EVET"
+            ],
+            [
+                "HAYIR"
+            ],
+            [
+                "Mükemmel!"
+            ],
+            [
+                "Kusursuz!"
+            ],
+            [
+                "Harika!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Italian"
+            ],
+            [
+                "LIVELLO "
+            ],
+            [
+                "Sei sicuro di voler tornare al menu? (il progresso del livello non verrà salvato)"
+            ],
+            [
+                "\n     SUONI\n\n     MUSICA"
+            ],
+            [
+                "GUARDA UNA PUBBLICITÀ PER 5 [icon=2]?"
+            ],
+            [
+                "SÌ"
+            ],
+            [
+                "NO"
+            ],
+            [
+                "Eccellente!"
+            ],
+            [
+                "Superbo!"
+            ],
+            [
+                "Fantastico!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Spanish"
+            ],
+            [
+                "NIVEL "
+            ],
+            [
+                "¿Estás seguro de que deseas volver al menú? (el progreso del nivel no se guardará)"
+            ],
+            [
+                "\n     SONIDOS\n\n     MÚSICA"
+            ],
+            [
+                "¿VER UN ANUNCIO POR 5 [icon=2]?"
+            ],
+            [
+                "SÍ"
+            ],
+            [
+                "NO"
+            ],
+            [
+                " ¡Excelente!"
+            ],
+            [
+                "¡Sobresaliente!"
+            ],
+            [
+                "¡Genial!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "FR"
+            ],
+            [
+                "NIVEAU "
+            ],
+            [
+                "Êtes-vous sûr de vouloir revenir au menu ? (la progression du niveau ne sera pas enregistrée)"
+            ],
+            [
+                "\n     SONS\n\n     MUSIQUE"
+            ],
+            [
+                "REGARDER UNE PUBLICITÉ POUR 5 [icon=2] ?"
+            ],
+            [
+                "OUI"
+            ],
+            [
+                "NON"
+            ],
+            [
+                "Excellent!"
+            ],
+            [
+                "Parfait!"
+            ],
+            [
+                "Génial!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Eng"
+            ],
+            [
+                "LEVEL "
+            ],
+            [
+                "Are you sure you want to return to the menu? (level progress will not be saved)"
+            ],
+            [
+                "\n     SOUND  \n\n     MUSIC"
+            ],
+            [
+                "WATCH AN AD FOR 5 [icon=2]?"
+            ],
+            [
+                "YES"
+            ],
+            [
+                "NO"
+            ],
+            [
+                "Excellent!"
+            ],
+            [
+                "Great!"
+            ],
+            [
+                "Awesome!"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

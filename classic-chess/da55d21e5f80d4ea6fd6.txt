@@ -1,0 +1,45 @@
+PLAY_AI~Single player
+PLAY_LOCAL~2 spillere
+OPPONENT~modstander
+PLAYER~spiller
+POPUP_CLOSE~âœ•
+SETTINGS~Indstillinger
+MUSIC~Musik
+SOUND~Lyd
+SHADOWS~Skygger
+SELECT_SKILL~VÃ¦lg fÃ¦rdighed
+WHAT_SKILL_LEVEL~Hvad er dit fÃ¦rdighedsniveau?
+BEGINNER~Begynder
+INTERMEDIATE~Mellemliggende
+ADVANCED~Avanceret
+CUSTOMIZE~Tilpas
+LIGHT_FIRST~Lyse brikker spiller fÃ¸rst
+DARK_FIRST~MÃ¸rke brikker spiller fÃ¸rst
+CUSTOMIZE_MSG~Tilpas brikker og brÃ¦t
+COLOR~Farve
+CUSTOMIZE_PIECES_BOARD~Tilpas brikker og brÃ¦t
+START~Start
+APPLY~Anvend
+PROMOTION~Bonde forfremmelse
+REPLACE_TILE~Erstat brik
+CHECK~Skak
+CHECKMATE~Skakmat
+POSSIBLE_DRAW~Muligt uafgjort
+POSSIBLE_DRAW_MSG_1~Hvis ingen spiller Ã¦ndrer deres trÃ¦k i
+POSSIBLE_DRAW_MSG_2~2 trÃ¦k, vil kampen ende uafgjort
+UNDO_LAST~Fortryd sidste trÃ¦k
+STALEMATE~DÃ¸dt lÃ¸b
+THREEFOLD_REPETITION~Tredobbelt gentagelse
+INSUFFICIENT_MATERIAL~UtilstrÃ¦kkeligt materiale
+CONGRATULATIONS~Tillykke
+DRAW~Uafgjort
+UPS~Ups!
+WON~Du har vundet!
+TIE~Det er uafgjort
+LOST~Du har tabt!
+REMATCH~Gentag kampen
+HOME~Hjem
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

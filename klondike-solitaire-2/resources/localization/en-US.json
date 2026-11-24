@@ -1,0 +1,22 @@
+{
+  "locale":"en-US",
+  "data":[
+    {"key":"button.1draw", "value":"DRAW"},
+    {"key":"button.3draw", "value":"DRAW"},
+    {"key":"label.score", "value":"SCORE"},
+    {"key":"label.time", "value":"TIME"},
+    {"key":"label.menu", "value":"MENU"},
+    {"key":"label.help", "value":"HELP"},
+    {"key":"label.congratulation", "value":"CONGRATULATION!"},
+    {"key":"label.gameover.message", "value":"YOU WIN"},
+    {"key":"label.music", "value":"MUSIC"},
+    {"key":"label.sound", "value":"SOUND"},
+    {"key":"label.howtoplay", "value":"HOW TO PLAY"},
+    {"key":"label.newgame", "value":"NEW GAME"},
+    {"key":"help.page1", "value":"Build up four foundations by suit from Ace to King."},
+    {"key":"help.page2", "value":"Any card on the table can be moved to the card which is one higher and has alternative color."},
+    {"key":"help.page3", "value":"You can move the entire pile to another pile as long as it is in descending order and alternating color."},
+    {"key":"help.page4", "value":"Any empty pile can be filled with any card, or a pile of cards."},
+    {"key":"help.page5", "value":"Deal 1 or 3 cards. Play cards to the table or foundations. You can flip through the deck infinitely."}
+  ]
+}

@@ -1,0 +1,45 @@
+PLAY_AI~Joueur seul
+PLAY_LOCAL~2 joueurs
+OPPONENT~adversaire
+PLAYER~joueur
+POPUP_CLOSE~âœ•
+SETTINGS~ParamÃ¨tres
+MUSIC~Musique
+SOUND~Son
+SHADOWS~Ombres
+SELECT_SKILL~SÃ©lectionnez votre niveau de compÃ©tence
+WHAT_SKILL_LEVEL~Quel est votre niveau de compÃ©tence ?
+BEGINNER~DÃ©butant
+INTERMEDIATE~IntermÃ©diaire
+ADVANCED~AvancÃ©
+CUSTOMIZE~Personnaliser
+LIGHT_FIRST~Les piÃ¨ces claires jouent en premier
+DARK_FIRST~Les piÃ¨ces sombres jouent en premier
+CUSTOMIZE_MSG~Personnalisez les piÃ¨ces et le plateau
+COLOR~Couleur
+CUSTOMIZE_PIECES_BOARD~Personnaliser les piÃ¨ces et le plateau
+START~DÃ©marrer
+APPLY~Appliquer
+PROMOTION~Promotion du pion
+REPLACE_TILE~Remplacer la piÃ¨ce
+CHECK~Ã‰chec
+CHECKMATE~Ã‰chec et mat
+POSSIBLE_DRAW~Match nul possible
+POSSIBLE_DRAW_MSG_1~Si aucun joueur ne change son jeu en
+POSSIBLE_DRAW_MSG_2~2 coups, la partie se terminera par un match nul
+UNDO_LAST~Annuler le dernier coup
+STALEMATE~Pat
+THREEFOLD_REPETITION~RÃ©pÃ©tition triple
+INSUFFICIENT_MATERIAL~MatÃ©riel insuffisant
+CONGRATULATIONS~FÃ©licitations
+DRAW~Match nul
+UPS~Oups !
+WON~Vous avez gagnÃ© !
+TIE~C'est une Ã©galitÃ©
+LOST~Vous avez perdu !
+REMATCH~Revanche
+HOME~Accueil
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

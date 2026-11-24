@@ -1,0 +1,45 @@
+PLAY_AI~Yksinpeli
+PLAY_LOCAL~2 pelaajaa
+OPPONENT~vastustaja
+PLAYER~pelaaja
+POPUP_CLOSE~âœ•
+SETTINGS~Asetukset
+MUSIC~Musiikki
+SOUND~Ã„Ã¤ni
+SHADOWS~Varjot
+SELECT_SKILL~Valitse taitotaso
+WHAT_SKILL_LEVEL~MikÃ¤ on taitotasosi?
+BEGINNER~Alkeet
+INTERMEDIATE~Keskitaso
+ADVANCED~Edistynyt
+CUSTOMIZE~Mukauta
+LIGHT_FIRST~Vaaleat nappulat aloittavat
+DARK_FIRST~Tummat nappulat aloittavat
+CUSTOMIZE_MSG~Mukauta nappuloita ja lautaa
+COLOR~VÃ¤ri
+CUSTOMIZE_PIECES_BOARD~Mukauta nappuloita ja lautaa
+START~Aloita
+APPLY~KÃ¤ytÃ¤
+PROMOTION~Sotilaan ylennys
+REPLACE_TILE~Korvaa nappula
+CHECK~Shakki
+CHECKMATE~Matissa
+POSSIBLE_DRAW~Mahdollinen tasapeli
+POSSIBLE_DRAW_MSG_1~Jos kumpikaan pelaaja ei muuta peliÃ¤Ã¤n
+POSSIBLE_DRAW_MSG_2~2 siirrossa, peli pÃ¤Ã¤ttyy tasapeliin
+UNDO_LAST~Kumoa viimeisin siirto
+STALEMATE~Patti
+THREEFOLD_REPETITION~Kolminkertainen toistuminen
+INSUFFICIENT_MATERIAL~Ei riittÃ¤vÃ¤sti materiaalia
+CONGRATULATIONS~Onnittelut
+DRAW~Tasapeli
+UPS~Hups!
+WON~Voitit!
+TIE~Tasapeli
+LOST~HÃ¤visit!
+REMATCH~Uusinta
+HOME~Koti
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—

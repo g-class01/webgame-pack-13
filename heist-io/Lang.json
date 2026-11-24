@@ -1,0 +1,2124 @@
+{
+    "c2array": true,
+    "size": [
+        7,
+        100,
+        1
+    ],
+    "data": [
+        [
+            [
+                "ИГРАТЬ"
+            ],
+            [
+                "Банк"
+            ],
+            [
+                "Кэш"
+            ],
+            [
+                "Возрождение"
+            ],
+            [
+                "Прочность сейфа"
+            ],
+            [
+                "Похищено: "
+            ],
+            [
+                "Сейф был атакован!"
+            ],
+            [
+                "ИНВЕНТАРЬ"
+            ],
+            [
+                "ПОРАЖЕНИЕ"
+            ],
+            [
+                "ПОБЕДА"
+            ],
+            [
+                "Ваша банда атакует сейф!"
+            ],
+            [
+                "БАНДИТЫ"
+            ],
+            [
+                "СПЕЦНАЗ"
+            ],
+            [
+                "МАГАЗИН"
+            ],
+            [
+                "Урон"
+            ],
+            [
+                "Дальность"
+            ],
+            [
+                "Скорострельность"
+            ],
+            [
+                "Точность"
+            ],
+            [
+                "Патроны"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Успешная покупка"
+            ],
+            [
+                "Недостаточно средств"
+            ],
+            [
+                "Снаряжение выбрано"
+            ],
+            [
+                "Выбрать"
+            ],
+            [
+                "Основное оружие"
+            ],
+            [
+                "Дополнительное оружие"
+            ],
+            [
+                "Маска"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Автомат"
+            ],
+            [
+                "Пистолет-Пулемёт"
+            ],
+            [
+                "Дробовик"
+            ],
+            [
+                "Снайперская Винтовка"
+            ],
+            [
+                "Пистолет"
+            ],
+            [
+                "Револьвер"
+            ],
+            [
+                "Комплект"
+            ],
+            [
+                "Вы возродитесь с выбранным комплектом"
+            ],
+            [
+                "Загрузка матча"
+            ],
+            [
+                "1. Сбор и использование информации\nМы можем собирать определенную информацию при использовании нашей игры. Это может включать в себя ваше имя, адрес электронной почты, IP-адрес, данные о вашем устройстве, информацию о вашей игровой активности и т.д. Мы используем эту информацию для обеспечения функционирования игры, улучшения пользовательского опыта, обеспечения безопасности и мониторинга активности.\n\n2. Хранение данных\nМы можем хранить данные в течение определенного периода времени в соответствии с действующими законами и требованиями безопасности. Мы принимаем все необходимые меры для защиты ваших данных от несанкционированного доступа, изменения, раскрытия или уничтожения.\n\n3. Разглашение информации\nМы можем разглашать вашу информацию третьим лицам только в случаях, предусмотренных законом или когда это необходимо для обеспечения безопасности, предотвращения мошенничества, защиты прав и безопасности наших пользователей.\n\n4. Согласие\nИспользуя нашу игру, вы соглашаетесь с нашей политикой конфиденциальности и сбором информации, описанным выше."
+            ],
+            [
+                "Политика конфиденциальности"
+            ],
+            [
+                "ru"
+            ],
+            [
+                "Получить"
+            ],
+            [
+                "Цель"
+            ],
+            [
+                "Попадите внутрь банка"
+            ],
+            [
+                "Подойдите к сейфу"
+            ],
+            [
+                "Уничтожьте сейф"
+            ],
+            [
+                "Подберите деньги"
+            ],
+            [
+                "Отнесите деньги в фургон"
+            ],
+            [
+                "Используйте для перемещения"
+            ],
+            [
+                "Используйте для стрельбы"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Настройки"
+            ],
+            [
+                "Награда"
+            ],
+            [
+                "УР."
+            ],
+            [
+                "Статистика"
+            ],
+            [
+                "Убийств:"
+            ],
+            [
+                "Смертей:"
+            ],
+            [
+                "Заработано денег:"
+            ],
+            [
+                "Потрачено денег:"
+            ],
+            [
+                "Доставлено на базу:"
+            ],
+            [
+                "Сыграно игр:"
+            ],
+            [
+                "Побед:"
+            ],
+            [
+                "В БОЙ!"
+            ],
+            [
+                "-Стащите все деньги с сейфа\n\n-Уничтожайте спецназ"
+            ],
+            [
+                "-Защитите деньги в сейфе\n\n-Уничтожайте бандитов"
+            ],
+            [
+                "Ваша команда"
+            ],
+            [
+                "МЕНЮ"
+            ],
+            [
+                "Звук"
+            ],
+            [
+                "Музыка"
+            ],
+            [
+                "Язык"
+            ],
+            [
+                "Управление"
+            ],
+            [
+                "Принять"
+            ],
+            [
+                "Меню"
+            ],
+            [
+                "Бонус за победу"
+            ],
+            [
+                " сек."
+            ],
+            [
+                "Срок действия предмета истёк:"
+            ],
+            [
+                "Навсегда"
+            ],
+            [
+                "Час"
+            ],
+            [
+                "Полчаса"
+            ],
+            [
+                "Скоро будет доступно"
+            ],
+            [
+                "Деньги"
+            ],
+            [
+                "Профиль"
+            ],
+            [
+                "НАГРАДЫ"
+            ],
+            [
+                "Награды"
+            ],
+            [
+                "Вертолёт врага поднялся в воздух"
+            ],
+            [
+                "Наш вертолёт поднялся в воздух"
+            ],
+            [
+                "Наш фургон уничтожен!"
+            ],
+            [
+                "Вражеский фургон уничтожен!"
+            ],
+            [
+                "Нажмите, чтобы перезарядить оружие"
+            ],
+            [
+                "Стрельба"
+            ],
+            [
+                "Передвижение"
+            ],
+            [
+                "БАНК"
+            ],
+            [
+                "ВЕГАС"
+            ],
+            [
+                "Обучение"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "PLAY"
+            ],
+            [
+                "Bank"
+            ],
+            [
+                "Ca$h"
+            ],
+            [
+                "Respawn in"
+            ],
+            [
+                "Safe's strength"
+            ],
+            [
+                "Stolen: "
+            ],
+            [
+                "The safe has been attacked!"
+            ],
+            [
+                "INVENTORY"
+            ],
+            [
+                "DEFEAT"
+            ],
+            [
+                "VICTORY"
+            ],
+            [
+                "Your gang is attacking the safe!"
+            ],
+            [
+                "GANGSTERS"
+            ],
+            [
+                "SPECIAL FORCES"
+            ],
+            [
+                "SHOP"
+            ],
+            [
+                "Damage"
+            ],
+            [
+                "Range"
+            ],
+            [
+                "Fire Rate"
+            ],
+            [
+                "Accuracy"
+            ],
+            [
+                "Ammo"
+            ],
+            [
+                "Buy"
+            ],
+            [
+                "Successful purchase"
+            ],
+            [
+                "Not enough money"
+            ],
+            [
+                "Equipment selected"
+            ],
+            [
+                "Select"
+            ],
+            [
+                "Primary Weapon"
+            ],
+            [
+                "Secondary Weapon"
+            ],
+            [
+                "Mask"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Assault Rifle"
+            ],
+            [
+                "Submachine Gun"
+            ],
+            [
+                "Shotgun"
+            ],
+            [
+                "Sniper Rifle"
+            ],
+            [
+                "Pistol"
+            ],
+            [
+                "Revolver"
+            ],
+            [
+                "Set"
+            ],
+            [
+                "You will respawn with the selected set"
+            ],
+            [
+                "Match Loading"
+            ],
+            [
+                "1. Collection and Use of Information\nWe may collect certain information when you use our game. This may include your name, email address, IP address, device information, details of your gameplay activity, etc. We use this information to ensure the functionality of the game, enhance the user experience, ensure security, and monitor activity.\n\n2. Data Storage\nWe may store data for a certain period in accordance with applicable laws and security requirements. We take all necessary measures to protect your data from unauthorized access, alteration, disclosure, or destruction.\n\n3. Disclosure of Information\nWe may disclose your information to third parties only when required by law or when necessary for security, fraud prevention, and the protection of the rights and safety of our users.\n\n4. Consent\nBy using our game, you consent to our privacy policy and the collection of information as described above."
+            ],
+            [
+                "Privacy Policy"
+            ],
+            [
+                "en"
+            ],
+            [
+                "Get"
+            ],
+            [
+                "Objective"
+            ],
+            [
+                "Enter the bank"
+            ],
+            [
+                "Approach the safe"
+            ],
+            [
+                "Destroy the safe"
+            ],
+            [
+                "Pick up the money"
+            ],
+            [
+                "Deliver the money to the van"
+            ],
+            [
+                "Use to move"
+            ],
+            [
+                "Use to shoot"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Settings"
+            ],
+            [
+                "Reward"
+            ],
+            [
+                "LVL"
+            ],
+            [
+                "Statistics"
+            ],
+            [
+                "Kills:"
+            ],
+            [
+                "Deaths:"
+            ],
+            [
+                "Money Earned:"
+            ],
+            [
+                "Money Spent:"
+            ],
+            [
+                "Delivered to the Base:"
+            ],
+            [
+                "Games Played:"
+            ],
+            [
+                "Wins:"
+            ],
+            [
+                "TO BATTLE!"
+            ],
+            [
+                "-Steal all the money from the safe\n\n-Destroy the SWAT"
+            ],
+            [
+                "-Protect the money in the safe\n\n-Eliminate the bandits"
+            ],
+            [
+                "Your team"
+            ],
+            [
+                "MENU"
+            ],
+            [
+                "Sound"
+            ],
+            [
+                "Music"
+            ],
+            [
+                "Language"
+            ],
+            [
+                "Controls"
+            ],
+            [
+                "Accept"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "Winning bonus"
+            ],
+            [
+                " sec"
+            ],
+            [
+                "The item's validity has expired:"
+            ],
+            [
+                "Forever"
+            ],
+            [
+                "Hour"
+            ],
+            [
+                "Half an hour"
+            ],
+            [
+                "Coming soon"
+            ],
+            [
+                "Money"
+            ],
+            [
+                "Profile"
+            ],
+            [
+                "REWARDS"
+            ],
+            [
+                "Rewards"
+            ],
+            [
+                "The enemy helicopter has taken off"
+            ],
+            [
+                "Our helicopter has taken off"
+            ],
+            [
+                "Our van has been destroyed!"
+            ],
+            [
+                "The enemy van has been destroyed!"
+            ],
+            [
+                "Press to reload your weapon"
+            ],
+            [
+                "Shooting"
+            ],
+            [
+                "Movement"
+            ],
+            [
+                "BANK"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutorial"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "SPIELEN"
+            ],
+            [
+                "Bank"
+            ],
+            [
+                "Bargeld"
+            ],
+            [
+                "Wiederbelebung in"
+            ],
+            [
+                "Tresorhaltbarkeit"
+            ],
+            [
+                "gestohlen: "
+            ],
+            [
+                "Der Tresor wurde angegriffen!"
+            ],
+            [
+                "INVENTAR"
+            ],
+            [
+                "NIEDERLAGE"
+            ],
+            [
+                "SIEG"
+            ],
+            [
+                "Eure Bande greift den Tresor an!"
+            ],
+            [
+                "BANDITEN"
+            ],
+            [
+                "SPEZNAZ"
+            ],
+            [
+                "LADEN"
+            ],
+            [
+                "Schaden"
+            ],
+            [
+                "Reichweite"
+            ],
+            [
+                "Feuerrate"
+            ],
+            [
+                "Genauigkeit"
+            ],
+            [
+                "Munition"
+            ],
+            [
+                "kaufen"
+            ],
+            [
+                "Erfolgreicher Kauf"
+            ],
+            [
+                "Nicht genug Geld"
+            ],
+            [
+                "Ausrüstung ausgewählt"
+            ],
+            [
+                "auswählen"
+            ],
+            [
+                "Hauptwaffe"
+            ],
+            [
+                "Sekundärwaffe"
+            ],
+            [
+                "Maske"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Sturmgewehr"
+            ],
+            [
+                "Maschinenpistole"
+            ],
+            [
+                "Schrotflinte"
+            ],
+            [
+                "Scharfschützengewehr"
+            ],
+            [
+                "Pistole"
+            ],
+            [
+                "Revolver"
+            ],
+            [
+                "Set"
+            ],
+            [
+                "Du wirst mit dem ausgewählten Set wiederbelebt"
+            ],
+            [
+                "Match wird geladen"
+            ],
+            [
+                "1. Erfassung und Nutzung von Informationen\nWir können bestimmte Informationen erfassen, wenn Sie unser Spiel nutzen. Dies kann Ihren Namen, Ihre E-Mail-Adresse, IP-Adresse, Daten zu Ihrem Gerät, Informationen zu Ihrer Spielaktivität usw. umfassen. Wir verwenden diese Informationen, um das Funktionieren des Spiels sicherzustellen, die Benutzererfahrung zu verbessern, die Sicherheit zu gewährleisten und Aktivitäten zu überwachen.\n\n2. Datenspeicherung\nWir können Daten für einen bestimmten Zeitraum gemäß den geltenden Gesetzen und Sicherheitsanforderungen speichern. Wir ergreifen alle notwendigen Maßnahmen, um Ihre Daten vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung zu schützen.\n\n3. Offenlegung von Informationen\nWir können Ihre Informationen nur in den gesetzlich vorgesehenen Fällen oder wenn es zur Gewährleistung der Sicherheit, zur Betrugsprävention oder zum Schutz der Rechte und Sicherheit unserer Nutzer erforderlich ist, an Dritte weitergeben.\n\n4. Zustimmung\nDurch die Nutzung unseres Spiels stimmen Sie unserer Datenschutzrichtlinie und der oben beschriebenen Datenerfassung zu."
+            ],
+            [
+                "Datenschutzrichtlinie"
+            ],
+            [
+                "de"
+            ],
+            [
+                "erhalten"
+            ],
+            [
+                "Ziel"
+            ],
+            [
+                "betrete die Bank"
+            ],
+            [
+                "gehe zum Tresor"
+            ],
+            [
+                "zerstöre den Tresor"
+            ],
+            [
+                "heb das Geld auf"
+            ],
+            [
+                "bringe das Geld zum Van"
+            ],
+            [
+                "nutze , um dich zu bewegen"
+            ],
+            [
+                "verwende , um zu schießen"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Einstellungen"
+            ],
+            [
+                "Belohnung"
+            ],
+            [
+                "LVL"
+            ],
+            [
+                "Statistik"
+            ],
+            [
+                "Abschüsse:"
+            ],
+            [
+                "Tode:"
+            ],
+            [
+                "Verdientes Geld:"
+            ],
+            [
+                "Ausgegebenes Geld:"
+            ],
+            [
+                "Zur Basis geliefert:"
+            ],
+            [
+                "Gespielte Spiele:"
+            ],
+            [
+                "Siege:"
+            ],
+            [
+                "IN DEN KAMPF!"
+            ],
+            [
+                "-stiehl das ganze Geld aus dem Tresor\n\n-zerstöre die Spezialeinheiten"
+            ],
+            [
+                "-schütze das Geld im Tresor\n\n-zerstöre die Banditen"
+            ],
+            [
+                "Euer Team"
+            ],
+            [
+                "MENÜ"
+            ],
+            [
+                "Ton"
+            ],
+            [
+                "Musik"
+            ],
+            [
+                "Sprache"
+            ],
+            [
+                "Steuerung"
+            ],
+            [
+                "Akzeptieren"
+            ],
+            [
+                "Menü"
+            ],
+            [
+                "Siegprämie"
+            ],
+            [
+                " sek"
+            ],
+            [
+                "Die Gültigkeit des Gegenstands ist abgelaufen:"
+            ],
+            [
+                "Für immer"
+            ],
+            [
+                "Stunde"
+            ],
+            [
+                "Halbe Stunde"
+            ],
+            [
+                "Bald verfügbar"
+            ],
+            [
+                "Geld"
+            ],
+            [
+                "Profil"
+            ],
+            [
+                "BELOHNUNGEN"
+            ],
+            [
+                "Belohnungen"
+            ],
+            [
+                "Der feindliche Hubschrauber ist gestartet"
+            ],
+            [
+                "Unser Hubschrauber ist gestartet"
+            ],
+            [
+                "Unser Van wurde zerstört!"
+            ],
+            [
+                "Der feindliche Van wurde zerstört!"
+            ],
+            [
+                "Drücke, um deine Waffe nachzuladen"
+            ],
+            [
+                "Schießen"
+            ],
+            [
+                "Bewegung"
+            ],
+            [
+                "BANK"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutorial"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "JUGAR"
+            ],
+            [
+                "Banco"
+            ],
+            [
+                "Efectivo"
+            ],
+            [
+                "Reaparición en"
+            ],
+            [
+                "Resistencia de la caja fuerte"
+            ],
+            [
+                "Robado: "
+            ],
+            [
+                "¡La caja fuerte fue atacada!"
+            ],
+            [
+                "INVENTARIO"
+            ],
+            [
+                "DERROTA"
+            ],
+            [
+                "VICTORIA"
+            ],
+            [
+                "¡Tu banda está atacando la caja fuerte!"
+            ],
+            [
+                "BANDIDOS"
+            ],
+            [
+                "FUERZAS ESPECIALES"
+            ],
+            [
+                "TIENDA"
+            ],
+            [
+                "Daño"
+            ],
+            [
+                "Alcance"
+            ],
+            [
+                "Cadencia de tiro"
+            ],
+            [
+                "Precisión"
+            ],
+            [
+                "Munición"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Compra exitosa"
+            ],
+            [
+                "No hay suficiente dinero"
+            ],
+            [
+                "Equipamiento seleccionado"
+            ],
+            [
+                "Seleccionar"
+            ],
+            [
+                "Arma principal"
+            ],
+            [
+                "Arma secundaria"
+            ],
+            [
+                "Máscara"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Rifle de asalto"
+            ],
+            [
+                "Subfusil"
+            ],
+            [
+                "Escopeta"
+            ],
+            [
+                "Rifle de francotirador"
+            ],
+            [
+                "Pistola"
+            ],
+            [
+                "Revólver"
+            ],
+            [
+                "Conjunto"
+            ],
+            [
+                "Reaparecerás con el conjunto seleccionado"
+            ],
+            [
+                "Cargando partida"
+            ],
+            [
+                "1. Recopilación y uso de información\nPodemos recopilar cierta información al utilizar nuestro juego. Esto puede incluir su nombre, dirección de correo electrónico, dirección IP, datos de su dispositivo, información sobre su actividad en el juego, etc. Utilizamos esta información para garantizar el funcionamiento del juego, mejorar la experiencia del usuario, asegurar la seguridad y monitorear la actividad.\n\n2. Almacenamiento de datos\nPodemos almacenar los datos durante un período determinado de acuerdo con las leyes aplicables y los requisitos de seguridad. Tomamos todas las medidas necesarias para proteger sus datos contra el acceso no autorizado, alteración, divulgación o destrucción.\n\n3. Divulgación de información\nPodemos divulgar su información a terceros solo en los casos previstos por la ley o cuando sea necesario para garantizar la seguridad, prevenir el fraude, y proteger los derechos y la seguridad de nuestros usuarios.\n\n4. Consentimiento\nAl usar nuestro juego, usted acepta nuestra política de privacidad y la recopilación de información descrita anteriormente."
+            ],
+            [
+                "Política de privacidad"
+            ],
+            [
+                "es"
+            ],
+            [
+                "Obtener"
+            ],
+            [
+                "Objetivo"
+            ],
+            [
+                "Entra en el banco"
+            ],
+            [
+                "Acércate a la caja fuerte"
+            ],
+            [
+                "Destruye la caja fuerte"
+            ],
+            [
+                "Recoge el dinero"
+            ],
+            [
+                "Lleva el dinero a la furgoneta"
+            ],
+            [
+                "Usa para moverte"
+            ],
+            [
+                "Usa para disparar"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Ajustes"
+            ],
+            [
+                "Recompensa"
+            ],
+            [
+                "NIV"
+            ],
+            [
+                "Estadísticas"
+            ],
+            [
+                "Asesinatos:"
+            ],
+            [
+                "Muertes:"
+            ],
+            [
+                "Dinero ganado:"
+            ],
+            [
+                "Dinero gastado:"
+            ],
+            [
+                "Entregado a la base:"
+            ],
+            [
+                "Partidas jugadas:"
+            ],
+            [
+                "Victorias:"
+            ],
+            [
+                "¡A LA BATALLA!"
+            ],
+            [
+                "-roba todo el dinero de la caja fuerte\n\n-destruye a las fuerzas especiales"
+            ],
+            [
+                "-protege el dinero en la caja fuerte\n\n-elimina a los bandidos"
+            ],
+            [
+                "Su equipo"
+            ],
+            [
+                "MENÚ"
+            ],
+            [
+                "Sonido"
+            ],
+            [
+                "Música"
+            ],
+            [
+                "Idioma"
+            ],
+            [
+                "Controles"
+            ],
+            [
+                "Aceptar"
+            ],
+            [
+                "Menú"
+            ],
+            [
+                "Bonificación ganadora"
+            ],
+            [
+                " seg"
+            ],
+            [
+                "La validez del objeto ha expirado:"
+            ],
+            [
+                "Para siempre"
+            ],
+            [
+                "Hora"
+            ],
+            [
+                "Media hora"
+            ],
+            [
+                "Próximamente disponible"
+            ],
+            [
+                "Dinero"
+            ],
+            [
+                "Perfil"
+            ],
+            [
+                "RECOMPENSAS"
+            ],
+            [
+                "Recompensas"
+            ],
+            [
+                "El helicóptero enemigo ha despegado"
+            ],
+            [
+                "Nuestro helicóptero ha despegado"
+            ],
+            [
+                "¡Nuestra furgoneta ha sido destruida!"
+            ],
+            [
+                "¡La furgoneta enemiga ha sido destruida!"
+            ],
+            [
+                "Pulsa para recargar tu arma"
+            ],
+            [
+                "Disparo"
+            ],
+            [
+                "Movimiento"
+            ],
+            [
+                "BANCO"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutorial"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "PLAY"
+            ],
+            [
+                "Banque"
+            ],
+            [
+                "Argent liquide"
+            ],
+            [
+                "Renaissance"
+            ],
+            [
+                "Force du coffre-fort"
+            ],
+            [
+                "Volé : "
+            ],
+            [
+                "Le coffre-fort a été attaqué !"
+            ],
+            [
+                "INVENTAIRE"
+            ],
+            [
+                "DEFEAT"
+            ],
+            [
+                "VICTOIRE"
+            ],
+            [
+                "Votre bande attaque le coffre-fort !"
+            ],
+            [
+                "BANDITS"
+            ],
+            [
+                "FORCES SPÉCIALES"
+            ],
+            [
+                "MAGAZINE"
+            ],
+            [
+                "Dégâts"
+            ],
+            [
+                "Portée"
+            ],
+            [
+                "Cadence de tir"
+            ],
+            [
+                "Précision"
+            ],
+            [
+                "Munitions"
+            ],
+            [
+                "Achat"
+            ],
+            [
+                "Achat réussi"
+            ],
+            [
+                "Fonds insuffisants"
+            ],
+            [
+                "Equipement sélectionné"
+            ],
+            [
+                "Sélectionner"
+            ],
+            [
+                "Arme principale"
+            ],
+            [
+                "Arme supplémentaire"
+            ],
+            [
+                "Masque"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Fusil automatique"
+            ],
+            [
+                "Pistolet mitrailleur"
+            ],
+            [
+                "Fusil de chasse"
+            ],
+            [
+                "Fusil de sniper"
+            ],
+            [
+                "Pistolet"
+            ],
+            [
+                "Revolver"
+            ],
+            [
+                "Kit"
+            ],
+            [
+                "Vous renaîtrez avec le set sélectionné"
+            ],
+            [
+                "Chargement d'un match"
+            ],
+            [
+                "1. Collecte et utilisation des informations\nNous pouvons collecter certaines informations lorsque vous utilisez notre jeu. Il peut s'agir de votre nom, de votre adresse électronique, de votre adresse IP, de données sur votre appareil, d'informations sur votre activité dans le jeu, etc. Nous utilisons ces informations pour faire fonctionner le jeu, améliorer l'expérience de l'utilisateur, assurer la sécurité et surveiller l'activité.\n\n2. Stockage des données\nNous pouvons stocker des données pendant un certain temps conformément aux lois applicables et aux exigences de sécurité. Nous prenons toutes les mesures nécessaires pour protéger vos données contre l'accès non autorisé, l'altération, la divulgation ou la destruction.\n\n3. Divulgation d'informations\nNous ne pouvons divulguer vos informations à des tiers que si la loi l'exige ou si cela est nécessaire pour protéger la sécurité, la prévention de la fraude, les droits et la sécurité de nos utilisateurs.\n\n4. Consentement\nEn utilisant notre jeu, vous acceptez notre politique de confidentialité et la collecte d'informations décrite ci-dessus."
+            ],
+            [
+                "Politique de confidentialité"
+            ],
+            [
+                "fr"
+            ],
+            [
+                "Recevoir"
+            ],
+            [
+                "Objectif"
+            ],
+            [
+                "Entrez dans la banque."
+            ],
+            [
+                "S'approcher du coffre-fort"
+            ],
+            [
+                "Détruisez le coffre"
+            ],
+            [
+                "Ramassez l'argent"
+            ],
+            [
+                "Apportez l'argent à la camionnette"
+            ],
+            [
+                "Utiliser pour se déplacer"
+            ],
+            [
+                "Utiliser pour tirer"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Paramètres"
+            ],
+            [
+                "Récompense"
+            ],
+            [
+                "LVL"
+            ],
+            [
+                "Statistiques"
+            ],
+            [
+                "Meurtres :"
+            ],
+            [
+                "Décès:"
+            ],
+            [
+                "Argent gagné :"
+            ],
+            [
+                "Argent dépensé :"
+            ],
+            [
+                "Livré à la base:"
+            ],
+            [
+                "Jeux joués:"
+            ],
+            [
+                "Victoire:"
+            ],
+            [
+                "CONTINUER À SE BATTRE!"
+            ],
+            [
+                "-Récupérer tout l'argent du coffre-fort\n\n-Détruire l'équipe du SWAT"
+            ],
+            [
+                "-Protéger l'argent dans le coffre-fort\n\n-Détruire les bandits"
+            ],
+            [
+                "Votre équipe"
+            ],
+            [
+                "MENU"
+            ],
+            [
+                "Son"
+            ],
+            [
+                "Musique"
+            ],
+            [
+                "Langue"
+            ],
+            [
+                "Contrôle"
+            ],
+            [
+                "Accepter"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "Bonus gagnant"
+            ],
+            [
+                " sec"
+            ],
+            [
+                "La validité de l'objet a expiré :"
+            ],
+            [
+                "Pour toujours"
+            ],
+            [
+                "Heure"
+            ],
+            [
+                "Demi-heure"
+            ],
+            [
+                "Bientôt disponible"
+            ],
+            [
+                "Argent"
+            ],
+            [
+                "Profil"
+            ],
+            [
+                "RÉCOMPENSES"
+            ],
+            [
+                "Récompenses"
+            ],
+            [
+                "L'hélicoptère ennemi a décollé"
+            ],
+            [
+                "Notre hélicoptère a décollé"
+            ],
+            [
+                "Notre fourgonnette a été détruite !"
+            ],
+            [
+                "La fourgonnette ennemie a été détruite !"
+            ],
+            [
+                "Appuyez pour recharger votre arme"
+            ],
+            [
+                "Tir"
+            ],
+            [
+                "Déplacement"
+            ],
+            [
+                "BANQUE"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutoriel"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "JOGAR"
+            ],
+            [
+                "Banco"
+            ],
+            [
+                "Dinheiro"
+            ],
+            [
+                "Renascimento"
+            ],
+            [
+                "Força do Cofre"
+            ],
+            [
+                "Roubado: "
+            ],
+            [
+                "O cofre foi atacado!"
+            ],
+            [
+                "INVENTÁRIO"
+            ],
+            [
+                "DERROTA"
+            ],
+            [
+                "VITÓRIA"
+            ],
+            [
+                "O teu grupo ataca o cofre!"
+            ],
+            [
+                "BANDIDOS"
+            ],
+            [
+                "SPETSNAZ"
+            ],
+            [
+                "MAGAZINE"
+            ],
+            [
+                "Danos"
+            ],
+            [
+                "Alcance"
+            ],
+            [
+                "Cadência de tiro"
+            ],
+            [
+                "Precisão"
+            ],
+            [
+                "Munições"
+            ],
+            [
+                "Comprar"
+            ],
+            [
+                "Compra bem sucedida"
+            ],
+            [
+                "Fundos insuficientes"
+            ],
+            [
+                "Equipamento selecionado"
+            ],
+            [
+                "Selecionar"
+            ],
+            [
+                "Arma principal"
+            ],
+            [
+                "Arma adicional"
+            ],
+            [
+                "Máscara"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Carabina automática"
+            ],
+            [
+                "Metralhadora"
+            ],
+            [
+                "Espingarda"
+            ],
+            [
+                "Espingarda de atirador furtivo"
+            ],
+            [
+                "Pistola"
+            ],
+            [
+                "Revólver"
+            ],
+            [
+                "Kit"
+            ],
+            [
+                "Será reanimado com o kit selecionado"
+            ],
+            [
+                "Carregar uma partida"
+            ],
+            [
+                "1. Recolha e utilização de informações\nPodemos recolher determinadas informações quando o utilizador utiliza o nosso jogo. Estas podem incluir o seu nome, endereço de correio eletrónico, endereço IP, dados sobre o seu dispositivo, informações sobre a sua atividade no jogo, etc. Utilizamos estas informações para operar o jogo, melhorar a experiência do utilizador, fornecer segurança e monitorizar a atividade.\n\n2. armazenamento de dados\nPodemos armazenar dados durante um determinado período de tempo, de acordo com a legislação aplicável e os requisitos de segurança. Tomamos todas as medidas necessárias para proteger os dados do utilizador contra o acesso não autorizado, a alteração, a divulgação ou a destruição.\n\n3. Divulgação de informações\nSó podemos divulgar as suas informações a terceiros quando tal for exigido por lei ou quando for necessário para proteger a segurança, a prevenção de fraudes, os direitos e a segurança dos nossos utilizadores.\n\n4. Consentimento\nAo utilizar o nosso jogo, o utilizador concorda com a nossa política de privacidade e com a recolha de informações acima descrita."
+            ],
+            [
+                "Política de privacidade"
+            ],
+            [
+                "pt"
+            ],
+            [
+                "Receber"
+            ],
+            [
+                "Objetivo"
+            ],
+            [
+                "Entrar no banco"
+            ],
+            [
+                "Aproximar-se do cofre"
+            ],
+            [
+                "Destruir o cofre"
+            ],
+            [
+                "Apanhar o dinheiro"
+            ],
+            [
+                "Levar o dinheiro para a carrinha"
+            ],
+            [
+                "Utilizar para se deslocar"
+            ],
+            [
+                "Utilizar para disparar"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Definições"
+            ],
+            [
+                "Recompensa"
+            ],
+            [
+                "NVL"
+            ],
+            [
+                "Estatísticas"
+            ],
+            [
+                "Mortes:"
+            ],
+            [
+                "Mortes:"
+            ],
+            [
+                "Dinheiro ganho:"
+            ],
+            [
+                "Dinheiro gasto:"
+            ],
+            [
+                "Entregue na base:"
+            ],
+            [
+                "Jogos jogados:"
+            ],
+            [
+                "Vitórias:"
+            ],
+            [
+                "BATALHA!"
+            ],
+            [
+                "-Tirar todo o dinheiro do cofre\n\n-Destruir a equipa SWAT"
+            ],
+            [
+                "-Proteger o dinheiro no cofre\n\n-Destruir os bandidos"
+            ],
+            [
+                "A sua equipa"
+            ],
+            [
+                "MENU"
+            ],
+            [
+                "Som"
+            ],
+            [
+                "Música"
+            ],
+            [
+                "Idioma"
+            ],
+            [
+                "Controlo"
+            ],
+            [
+                "Aceitar"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "Bónus de vitória"
+            ],
+            [
+                " seg"
+            ],
+            [
+                "A validade do item expirou:"
+            ],
+            [
+                "Para sempre"
+            ],
+            [
+                "Hora"
+            ],
+            [
+                "Meia hora"
+            ],
+            [
+                "Em breve disponível"
+            ],
+            [
+                "Dinheiro"
+            ],
+            [
+                "Perfil"
+            ],
+            [
+                "RECOMPENSAS"
+            ],
+            [
+                "Recompensas"
+            ],
+            [
+                "O helicóptero inimigo decolou"
+            ],
+            [
+                "O nosso helicóptero decolou"
+            ],
+            [
+                "Nossa van foi destruída!"
+            ],
+            [
+                "A van inimiga foi destruída!"
+            ],
+            [
+                "Pressione para recarregar sua arma"
+            ],
+            [
+                "Tiro"
+            ],
+            [
+                "Movimento"
+            ],
+            [
+                "BANCO"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutorial"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "GIOCO"
+            ],
+            [
+                "La banca"
+            ],
+            [
+                "Contanti"
+            ],
+            [
+                "Rinascita"
+            ],
+            [
+                "Forza del caveau"
+            ],
+            [
+                "Rubato: "
+            ],
+            [
+                "La cassaforte è stata attaccata!"
+            ],
+            [
+                "INVENTARIO"
+            ],
+            [
+                "SCONFITTA"
+            ],
+            [
+                "VITTORIA"
+            ],
+            [
+                "La tua banda sta attaccando la cassaforte!"
+            ],
+            [
+                "BANDITI"
+            ],
+            [
+                "FORZE SPECIALI"
+            ],
+            [
+                "RIVISTA"
+            ],
+            [
+                "Danno"
+            ],
+            [
+                "Portata"
+            ],
+            [
+                "Velocità di fuoco"
+            ],
+            [
+                "Precisione"
+            ],
+            [
+                "Munizioni"
+            ],
+            [
+                "Acquisto"
+            ],
+            [
+                "Acquisto riuscito"
+            ],
+            [
+                "Fondi insufficienti"
+            ],
+            [
+                "Attrezzatura selezionata"
+            ],
+            [
+                "Selezionare"
+            ],
+            [
+                "Arma primaria"
+            ],
+            [
+                "Arma supplementare"
+            ],
+            [
+                "Maschera"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Fucile automatico"
+            ],
+            [
+                "Fucile mitragliatore"
+            ],
+            [
+                "Fucile a pompa"
+            ],
+            [
+                "Fucile da cecchino"
+            ],
+            [
+                "Pistola"
+            ],
+            [
+                "Revolver"
+            ],
+            [
+                "Kit"
+            ],
+            [
+                "Verrete rianimati con il kit selezionato"
+            ],
+            [
+                "Caricamento partita"
+            ],
+            [
+                "1. Raccolta e utilizzo delle informazioni\nPossiamo raccogliere alcune informazioni quando l'utente utilizza il nostro gioco. Tali informazioni possono includere il nome, l'indirizzo e-mail, l'indirizzo IP, i dati relativi al dispositivo, le informazioni sull'attività di gioco, ecc. Utilizziamo queste informazioni per gestire il gioco, migliorare l'esperienza dell'utente, garantire la sicurezza e monitorare le attività.\n\n2. Conservazione dei dati\nPossiamo conservare i dati per un certo periodo di tempo, in conformità alle leggi vigenti e ai requisiti di sicurezza. Adottiamo tutte le misure necessarie per proteggere i dati da accessi non autorizzati, alterazioni, divulgazioni o distruzioni.\n\n3. Divulgazione delle informazioni\nPossiamo divulgare le vostre informazioni a terzi solo se richiesto dalla legge o se è necessario per proteggere la sicurezza, la prevenzione delle frodi, i diritti e la sicurezza dei nostri utenti.\n\n4. Consenso\nUtilizzando il nostro gioco, l'utente accetta la nostra politica sulla privacy e la raccolta di informazioni sopra descritta."
+            ],
+            [
+                "Informativa sulla privacy"
+            ],
+            [
+                "it"
+            ],
+            [
+                "Ricezione"
+            ],
+            [
+                "Obiettivo"
+            ],
+            [
+                "Entrare nella banca"
+            ],
+            [
+                "Avvicinarsi alla cassaforte"
+            ],
+            [
+                "Distruggere la cassaforte"
+            ],
+            [
+                "Raccogliere il denaro"
+            ],
+            [
+                "Portate il denaro al furgone"
+            ],
+            [
+                "Usare per spostarsi"
+            ],
+            [
+                "Usare per sparare"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Impostazioni"
+            ],
+            [
+                "Ricompensa"
+            ],
+            [
+                "SD."
+            ],
+            [
+                "Statistiche"
+            ],
+            [
+                "Uccisioni:"
+            ],
+            [
+                "Morti:"
+            ],
+            [
+                "Soldi guadagnati:"
+            ],
+            [
+                "Soldi spesi:"
+            ],
+            [
+                "Consegnato alla base:"
+            ],
+            [
+                "Giochi giocati:"
+            ],
+            [
+                "Vittoria:"
+            ],
+            [
+                "LOTTARE!"
+            ],
+            [
+                "-Recuperare tutti i soldi dalla cassaforte\n\n-Distruggere la squadra SWAT"
+            ],
+            [
+                "-Proteggere il denaro nella cassaforte\n\n-Distruggere i banditi"
+            ],
+            [
+                "Il tuo team"
+            ],
+            [
+                "MENU"
+            ],
+            [
+                "Il suono"
+            ],
+            [
+                "Musica"
+            ],
+            [
+                "Lingua"
+            ],
+            [
+                "Controllo"
+            ],
+            [
+                "Accettare"
+            ],
+            [
+                "Menu"
+            ],
+            [
+                "Bonus di vincita"
+            ],
+            [
+                " sec"
+            ],
+            [
+                "La validità dell'oggetto è scaduta:"
+            ],
+            [
+                "Per sempre"
+            ],
+            [
+                "Ora"
+            ],
+            [
+                "Mezz'ora"
+            ],
+            [
+                "Presto disponibile"
+            ],
+            [
+                "Denaro"
+            ],
+            [
+                "Profilo"
+            ],
+            [
+                "RICOMPENSE"
+            ],
+            [
+                "Ricompense"
+            ],
+            [
+                "L'elicottero nemico è decollato"
+            ],
+            [
+                "Il nostro elicottero è decollato"
+            ],
+            [
+                "Il nostro furgone è stato distrutto!"
+            ],
+            [
+                "Il furgone nemico è stato distrutto!"
+            ],
+            [
+                "Premi per ricaricare la tua arma"
+            ],
+            [
+                "Sparo"
+            ],
+            [
+                "Movimento"
+            ],
+            [
+                "BANCA"
+            ],
+            [
+                "VEGAS"
+            ],
+            [
+                "Tutoriale"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

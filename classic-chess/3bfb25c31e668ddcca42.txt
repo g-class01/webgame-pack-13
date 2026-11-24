@@ -1,0 +1,45 @@
+PLAY_AI~Single player
+PLAY_LOCAL~2 spelers
+OPPONENT~tegenstander
+PLAYER~speler
+POPUP_CLOSE~âœ•
+SETTINGS~Instellingen
+MUSIC~Muziek
+SOUND~Geluid
+SHADOWS~Schaduwen
+SELECT_SKILL~Selecteer vaardigheid
+WHAT_SKILL_LEVEL~Wat is je vaardigheidsniveau?
+BEGINNER~Beginner
+INTERMEDIATE~Gevorderde beginner
+ADVANCED~Gevorderde
+CUSTOMIZE~Aanpassen
+LIGHT_FIRST~Lichte stukken spelen eerst
+DARK_FIRST~Donkere stukken spelen eerst
+CUSTOMIZE_MSG~Pas stukken en bord aan
+COLOR~Kleur
+CUSTOMIZE_PIECES_BOARD~Pas stukken en bord aan
+START~Start
+APPLY~Toepassen
+PROMOTION~Pionpromotie
+REPLACE_TILE~Vervang stuk
+CHECK~Schaak
+CHECKMATE~Schaakmat
+POSSIBLE_DRAW~Mogelijk gelijkspel
+POSSIBLE_DRAW_MSG_1~Als geen speler zijn zet verandert binnen
+POSSIBLE_DRAW_MSG_2~2 zetten, eindigt de wedstrijd in een gelijkspel
+UNDO_LAST~Maak laatste zet ongedaan
+STALEMATE~Pat
+THREEFOLD_REPETITION~Drievoudige herhaling
+INSUFFICIENT_MATERIAL~Onvoldoende materiaal
+CONGRATULATIONS~Gefeliciteerd
+DRAW~Gelijkspel
+UPS~Oeps!
+WON~Je hebt gewonnen!
+TIE~Het is gelijkspel
+LOST~Je hebt verloren!
+REMATCH~Revancheren
+HOME~Thuis
+THINKING_0~â—‹â—‹â—‹
+THINKING_1~â—â—‹â—‹
+THINKING_2~â—â—â—‹
+THINKING_3~â—â—â—
